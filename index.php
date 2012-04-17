@@ -1,5 +1,5 @@
 <?php 
-	$title = 'Super Pagina';
+	$title = 'class git';
 	$keywords = ' ';
 	$description = ' ';
 	$topic = ' ';
@@ -15,6 +15,14 @@
 	
 		<!-- Start: content -->
 		<div id="content">
+		
+		<div id="head">
+			<div class="logo">Hello</div>
+			<ul class="nav">
+				<li><a href="#">home</a></li>
+				<li><a href="#">contact us</a></li>
+			</ul>
+		</div>
 			
 		</div>
 		<!-- End: content --> 
