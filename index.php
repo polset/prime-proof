@@ -20,6 +20,8 @@
 			<div class="logo">Hello</div>
 			<ul class="nav">
 				<li><a href="#">home</a></li>
+				<li><a href="#">about us</a></li>
+				<li><a href="#">gallery</a></li>
 				<li><a href="#">contact us</a></li>
 			</ul>
 		</div>
