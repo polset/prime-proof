@@ -29,3 +29,4 @@
 		
 		<!-- Start: footer -->
 		<?php include('includes/inc.foot.php'); ?>
+		<!-- Start: footer -->
