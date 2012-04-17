@@ -1,0 +1,62 @@
+/*------------------------------------*\
+	reset
+\*------------------------------------*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td,button{ 
+	margin:0;
+	padding:0;
+}
+table{
+	border-collapse:collapse;
+	border-spacing:0; /* tables still need 'cellspacing="0"' in the markup */
+}
+ins {
+	text-decoration: none; /* remember to highlight inserts somehow! */
+}
+del {
+	text-decoration: line-through;
+}
+:focus {
+	outline: 0; /* remember to define focus styles! */
+}
+ol, ul {
+	list-style: none;
+}
+fieldset,img{ 
+	border:0;
+}
+address,caption,cite,dfn,th,var{
+	font-style:normal;
+	font-weight:normal;
+}
+caption,th{
+	text-align:left;
+}
+h1,h2,h3,h4,h5,h6{
+	font-size:100%;
+	font-weight:bold;
+}
+q:before,q:after{
+	content:'';
+}
+abbr,acronym{
+	border:0;
+}
+/* remember to define a styles! */
+a{
+	color:#09f;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+a:active,
+a:focus{
+	position:relative;
+	top:1px;
+}
+a:visited{
+	color:#0048b5;
+}
+.read-more:after{
+	content:"\00A0\000BB";
+}

@@ -1,0 +1,91 @@
+/*	-----------------------------------------
+
+	Finix.pe
+	Design | Development | Strategy | advice
+	
+	- - - - - - - - - - - - - - - - - - - - -
+	
+	Project:		Base setup styles
+	Filename:		estilos.css
+	Version:		1.8
+	Date:			Mar 9, 2012
+	Creator: 		@pol_
+	
+	Contents:
+
+			0.0 html
+			1.0 Body
+			2.0 wrapper
+			3.0 head
+				3.1 navigation
+			4.0 content
+			5.0 footer
+			
+	----------------------------------------- 	*/
+
+/* 0.0 html
+********************************************************/
+html{
+}
+/* 1.0 Body
+********************************************************/
+body{
+	font-family:Cambria, Georgia, "Times New Roman", Times, serif; 
+	color:#999;
+	background-color:black;
+}
+body:hover{
+	background:url(../images/css/18x24.png) center -6px repeat-y;
+}
+/* 2.0 wrapper
+********************************************************/
+#wrapper {
+	margin:0 auto;
+	width:1008px;
+}
+p#especial {
+	font:normal small-caps bold 1em/1.5em Arial, Helvetica, sans-serif; /* optional>(style variant weight) size optional>(line-height) family*/
+}
+/* 3.0 head
+********************************************************/
+#head {
+	width:1008px;
+}
+/* 3.1 navigation
+********************************************************/
+ul.navigation{
+	
+}
+ul.navigation a{
+	color: #ccc;
+	text-decoration:none;
+}
+ul.navigation a:hover {
+	color: #666;
+	text-decoration:underline;
+}
+ul.navigation a:active,
+ul.navigation a:focus{
+	position:relative;
+	top:1px;
+}
+ul.navigation a:visited{
+	color:#0048b5;
+}
+#home ul.navigation .home, 
+#about ul.navigation .about, 
+#contact ul.navigation .contact {
+	color: #999;
+}
+/* 4.0 content
+********************************************************/
+#content {
+	width:1008px;
+}
+/* 5.0 footer
+********************************************************/
+#footer {
+	width:1008px;
+}
+
+

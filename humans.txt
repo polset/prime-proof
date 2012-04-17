@@ -1,0 +1,12 @@
+﻿/* TEAM */
+	Author: Paul Tumialan Aquino
+	Contact: teescucho[at]pol.pe
+	Twitter: @pol_
+	From:Lima, Lima, Peru
+
+/* SITE */
+	Last update:2011/08/08
+	Language:Spanish
+	Doctype:XHTML with CSS
+	Tools:PHP
+	IDE:Notepad++
